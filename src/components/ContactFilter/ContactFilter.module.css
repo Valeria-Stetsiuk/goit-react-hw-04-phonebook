@@ -1,0 +1,7 @@
+.msgFilter{
+    font-weight: 700;
+    margin-right: 10px;
+}
+.inputFilter:hover,.inputFilter:focus {
+outline: 3px solid rgb(96, 110, 218);
+}

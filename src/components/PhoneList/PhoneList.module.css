@@ -1,0 +1,20 @@
+.phoneList{
+    width: 350px;
+    margin-top: 45px;
+}
+.phoneItem{
+    display: flex;
+    margin-bottom: 15px;
+    justify-content: space-evenly;
+    font-weight: 600;
+}
+.buttonDelete{
+    border: transparent;
+        border-radius: 5px;
+        color: black;
+        outline: 1px solid rgb(43, 41, 41);
+}
+.buttonDelete:hover, .buttonDelete:focus{
+    background-color: rgb(248, 243, 243);
+        outline: 3px solid rgb(96, 110, 218);
+}
